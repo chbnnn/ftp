@@ -1,5 +1,5 @@
 # ftp
-python command line ftp
+Python command line ftp client
 
 - 支持的命令：
   - 服务器端:
