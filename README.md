@@ -20,3 +20,6 @@ python command line ftp
 
 
 ![运行结果](/result.png)
+
+(meicuo, jiushi baozhuang yixia ftplib de jiekou eryi)
+(gongxian jiushi zengjia le yiliangge mingling, kanqilai haoyong yidiandian)
